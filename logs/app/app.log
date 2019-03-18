@@ -1,0 +1,556 @@
+[2019-03-18 13:33:17.889] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 13:33:17.910] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 13:33:18.037] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 13:33:18.037] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 13:33:18.120] [DEBUG] Query - ===========================================
+[2019-03-18 13:33:18.121] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 13:33:18.123] [DEBUG] Query - ===========================================
+[2019-03-18 13:33:18.129] [DEBUG] Query - ===========================================
+[2019-03-18 13:33:18.129] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 13:33:18.129] [DEBUG] Query - ===========================================
+[2019-03-18 13:35:12.357] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 13:35:12.377] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 13:35:12.459] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 13:35:12.459] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 15:11:56.909] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 15:11:56.935] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 15:11:57.017] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 15:11:57.017] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 15:43:20.912] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 15:43:20.931] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 15:43:21.025] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 15:43:21.025] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:01:22.363] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:01:22.564] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:01:22.751] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:01:22.751] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:15:31.614] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:15:31.635] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:15:31.719] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:15:31.719] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:24:21.982] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:24:22.004] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:24:22.090] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:24:22.090] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:28:56.747] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:28:56.768] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:28:56.860] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:28:56.860] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:28:56.872] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 16:28:56.872] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 16:28:56.951] [DEBUG] Query - ===========================================
+[2019-03-18 16:28:56.951] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 16:28:56.957] [DEBUG] Query - ===========================================
+[2019-03-18 16:28:56.967] [DEBUG] Query - ===========================================
+[2019-03-18 16:28:56.967] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 16:28:56.967] [DEBUG] Query - ===========================================
+[2019-03-18 16:29:40.601] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:29:40.622] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:29:40.716] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:29:40.716] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:29:40.729] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 16:29:40.729] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 16:29:40.808] [DEBUG] Query - ===========================================
+[2019-03-18 16:29:40.808] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 16:29:40.813] [DEBUG] Query - ===========================================
+[2019-03-18 16:29:40.836] [DEBUG] Query - ===========================================
+[2019-03-18 16:29:40.836] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 16:29:40.837] [DEBUG] Query - ===========================================
+[2019-03-18 16:29:40.837] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '53',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:40.837] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '53',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:40.938] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:40.938] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.017] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.017] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.059] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.059] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.122] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.122] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.164] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:29:41.164] [ERROR] blockscanner - { error: column "genesis_block_hash" does not exist
+    at Connection.parseE (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:545:11)
+    at Connection.parseMessage (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:370:19)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:113:22)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:601:20)
+  name: 'error',
+  length: 118,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '81',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3293',
+  routine: 'errorMissingColumn' }
+[2019-03-18 16:30:16.930] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:30:16.951] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:30:17.038] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:30:17.038] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:32:44.698] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:32:44.722] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:32:44.807] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:32:44.807] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:32:44.814] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 16:32:44.815] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 16:32:44.886] [DEBUG] Query - ===========================================
+[2019-03-18 16:36:15.854] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:36:15.875] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:36:15.961] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:15.961] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:15.971] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 16:36:15.971] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 16:36:16.034] [DEBUG] Query - ===========================================
+[2019-03-18 16:36:16.034] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 16:36:16.036] [DEBUG] Query - ===========================================
+[2019-03-18 16:36:16.050] [DEBUG] Query - ===========================================
+[2019-03-18 16:36:44.531] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:36:44.555] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:36:44.648] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:44.648] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:44.661] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 16:36:44.661] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 16:36:52.517] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:36:52.546] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:36:52.644] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:52.644] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:52.653] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 16:36:52.653] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 16:37:09.245] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:37:09.266] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:37:09.350] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:37:09.350] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:37:09.359] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 16:37:09.359] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 16:48:01.776] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:48:01.798] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 16:48:01.890] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:48:01.890] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:40:50.048] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:40:50.095] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:40:50.237] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:40:50.237] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:43:50.648] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:43:50.752] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:43:51.483] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:43:51.483] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:43:51.663] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 18:43:51.664] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 18:43:52.647] [DEBUG] Query - ===========================================
+[2019-03-18 18:43:52.647] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 18:43:52.652] [DEBUG] Query - ===========================================
+[2019-03-18 18:43:52.654] [DEBUG] Query - ===========================================
+[2019-03-18 18:43:52.654] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 a9 f3 69 e7 77 c7 b1 c0 a8 00 0b 85 39 ad 37 3a a8 53 c8 40 01 ca 10 42 d0 00 e4 02 b8 78 09 e8 1a 20 94 56 7a 6d 80 1c 88 c8 51 ba 12 96 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2019-03-18 18:43:52.655] [DEBUG] Query - ===========================================
+[2019-03-18 18:47:17.554] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:47:17.599] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:47:17.757] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:47:17.757] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:47:17.777] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 18:47:17.778] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 18:47:17.878] [DEBUG] Query - ===========================================
+[2019-03-18 18:49:30.771] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:49:30.825] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:49:31.124] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:49:31.124] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:49:31.167] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 18:49:31.168] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 18:52:50.369] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:52:50.422] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 18:52:50.607] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:52:50.607] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 19:35:58.742] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 19:35:58.963] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 19:35:59.779] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 19:35:59.779] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:00:43.209] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:00:43.273] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:00:43.606] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:00:43.606] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:00:43.739] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 20:00:43.739] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 20:00:43.783] [DEBUG] Query - ===========================================
+[2019-03-18 20:04:31.863] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:04:31.942] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:04:32.392] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:04:32.392] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:04:32.516] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 20:04:32.517] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 20:04:32.604] [DEBUG] Query - ===========================================
+[2019-03-18 20:04:57.053] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:04:57.099] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:04:57.647] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:04:57.647] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:04:57.745] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 20:04:57.745] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-18 20:05:07.518] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:05:07.570] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:05:07.904] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:05:07.904] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:17:19.973] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:17:20.022] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 20:17:20.429] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:17:20.429] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.

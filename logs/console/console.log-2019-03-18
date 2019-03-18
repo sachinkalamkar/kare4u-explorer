@@ -1,0 +1,144 @@
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 14721
+
+
+Insert sql is INSERT INTO orderer  ( "requests","server_hostname" ) VALUES( $1,$2  ) RETURNING *;
+INSERT ID: 1
+/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464
+      if (!res.rows || res.rows.length == 0) resolve(null);
+               ^
+
+TypeError: Cannot read property 'rows' of undefined
+    at Query.client.query [as callback] (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464:16)
+    at Query.handleError (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/query.js:143:17)
+    at Connection.connectedErrorHandler (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/client.js:132:26)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:117:12)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 14782
+
+
+/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:319
+      if (!res.rows || res.rows.length == 0) resolve(null);
+               ^
+
+TypeError: Cannot read property 'rows' of undefined
+    at Query.client.query [as callback] (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:319:16)
+    at Query.handleError (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/query.js:143:17)
+    at Connection.connectedErrorHandler (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/client.js:132:26)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:117:12)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 14833
+
+
+/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464
+      if (!res.rows || res.rows.length == 0) resolve(null);
+               ^
+
+TypeError: Cannot read property 'rows' of undefined
+    at Query.client.query [as callback] (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464:16)
+    at Query.handleError (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/query.js:143:17)
+    at Connection.connectedErrorHandler (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/client.js:132:26)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:117:12)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 20806
+
+
+(node:20806) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'grpc.default_authority' of undefined
+    at BlockScanner.savePeerlist (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/explorer/backend/BlockScanner.js:375:54)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+(node:20806) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:20806) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464
+      if (!res.rows || res.rows.length == 0) resolve(null);
+               ^
+
+TypeError: Cannot read property 'rows' of undefined
+    at Query.client.query [as callback] (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464:16)
+    at Query.handleError (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/query.js:143:17)
+    at Connection.connectedErrorHandler (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/client.js:132:26)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:117:12)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 20837
+
+
+(node:20837) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'grpc.default_authority' of undefined
+    at BlockScanner.savePeerlist (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/explorer/backend/BlockScanner.js:375:54)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+(node:20837) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:20837) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464
+      if (!res.rows || res.rows.length == 0) resolve(null);
+               ^
+
+TypeError: Cannot read property 'rows' of undefined
+    at Query.client.query [as callback] (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/app/persistence/postgreSQL/db/pgservice.js:464:16)
+    at Query.handleError (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/query.js:143:17)
+    at Connection.connectedErrorHandler (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/client.js:132:26)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (/home/rapidqube/Kare4U-Explorer/blockchain-explorer/node_modules/pg/lib/connection.js:117:12)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)

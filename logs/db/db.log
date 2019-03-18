@@ -1,0 +1,102 @@
+[2019-03-18 13:23:20.864] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 13:28:36.829] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 13:33:17.503] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 13:33:18.245] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 13:35:11.982] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 13:35:12.467] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 15:11:55.869] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 15:11:57.038] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 15:43:20.130] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 15:43:21.037] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:01:21.262] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:01:22.777] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:05:38.097] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:15:31.242] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:15:31.737] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:20:43.232] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:23:27.276] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:24:21.598] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:24:22.096] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:28:56.382] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:28:56.866] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:28:56.947] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from peer where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and requests='grpc://127.0.0.1:7051' 
+[2019-03-18 16:28:56.965] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from chaincodes where name='Kare4u_20' and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and version='1.0' and path='github.com/Kare4u_20'
+[2019-03-18 16:28:56.985] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 16:29:40.260] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:29:40.724] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:29:40.802] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from chaincodes where name='Kare4u_20' and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and version='1.0' and path='github.com/Kare4u_20'
+[2019-03-18 16:29:40.825] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from peer where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and requests='grpc://127.0.0.1:7051' 
+[2019-03-18 16:29:40.837] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 16:29:40.937] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from blocks where blocknum='4' and txcount='1'
+        and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and prehash='94567a6d801c88c851ba129683dce86d34dbccfbfd0aa049ff9850006c0db848' and datahash='2b8d17f6401e051f55e87f152e6ef7b2fb06c55fc07958e6dd50f178d414ce2f' 
+[2019-03-18 16:29:41.012] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from channel where name='mychannel' and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 16:29:41.016] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from blocks where blocknum='3' and txcount='1'
+        and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and prehash='6e83ab4bddaf8dfcc8db3628652951d39c933c5fe3945d23c336b5412df26638' and datahash='f6bcc827fa206617c1d40f1baa2b6d2044a2df98b4594cef899195993aaf1b45' 
+[2019-03-18 16:29:41.057] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from blocks where blocknum='2' and txcount='1'
+        and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and prehash='9241e76db520f21bd44165258c77b489024cb72c16709c522b2f924792a1c0e3' and datahash='7796bcefb11602640939407c35c27145e7d354565521397d8991efdff472bc51' 
+[2019-03-18 16:29:41.122] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from blocks where blocknum='1' and txcount='1'
+        and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and prehash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and datahash='f6a64c645cb7f63813aede1f99d49e60e4f7987e5ab132232409ebe26192c6cc' 
+[2019-03-18 16:29:41.163] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from blocks where blocknum='0' and txcount='1'
+        and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and prehash='' and datahash='388d91d893063ac98863f084717c448f40ce1229e2afbc3070153809f502d0c4' 
+[2019-03-18 16:30:16.544] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:30:17.049] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:32:44.320] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:32:44.877] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:36:15.454] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:15.968] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:36:15.968] [DEBUG] pgservice - Insert sql is INSERT INTO orderer  ( "requests","server_hostname" ) VALUES( $1,$2  ) RETURNING *;
+[2019-03-18 16:36:16.051] [DEBUG] pgservice - --------------------------INSERT----------------------------
+[2019-03-18 16:36:16.051] [DEBUG] pgservice - -----------------------------------------------------------------
+
+
+[2019-03-18 16:36:16.053] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 16:36:44.123] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:44.659] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:36:44.718] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from chaincodes where name='Kare4u_20' and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and version='1.0' and path='github.com/Kare4u_20'
+[2019-03-18 16:36:52.131] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:36:52.652] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:36:52.710] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 16:37:08.890] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:37:09.356] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:37:09.409] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from chaincodes where name='Kare4u_20' and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and version='1.0' and path='github.com/Kare4u_20'
+[2019-03-18 16:48:01.350] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 16:48:01.898] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 16:48:01.950] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from peer where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and requests='grpc://127.0.0.1:7051' 
+[2019-03-18 18:40:49.045] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:40:50.252] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 18:40:50.340] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 18:43:49.292] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:43:51.950] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 18:43:52.895] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 18:47:16.810] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:47:17.775] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 18:47:17.937] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from chaincodes where name='Kare4u_20' and genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d' and version='1.0' and path='github.com/Kare4u_20'
+[2019-03-18 18:49:30.005] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:49:31.163] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 18:49:31.412] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='be6b575db054db3aed70e7d3cd04cc0fef3e089ca04d503cd6f9a1a14545d48d'
+[2019-03-18 18:52:49.545] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 18:52:50.625] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 18:52:50.759] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='38fdeca13a23343290a806e46e8596593885d59c5e784d377077f9887de26cb6'
+[2019-03-18 19:35:57.239] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 19:35:59.876] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 19:35:59.885] [DEBUG] pgservice - Insert sql is INSERT INTO orderer  ( "requests","server_hostname" ) VALUES( $1,$2  ) RETURNING *;
+[2019-03-18 19:36:00.113] [DEBUG] pgservice - --------------------------INSERT----------------------------
+[2019-03-18 19:36:00.117] [DEBUG] pgservice - -----------------------------------------------------------------
+
+
+[2019-03-18 19:36:01.751] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='38fdeca13a23343290a806e46e8596593885d59c5e784d377077f9887de26cb6'
+[2019-03-18 20:00:42.222] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:00:43.645] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 20:00:43.829] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='38fdeca13a23343290a806e46e8596593885d59c5e784d377077f9887de26cb6'
+[2019-03-18 20:04:30.914] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:04:32.406] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 20:04:32.631] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='38fdeca13a23343290a806e46e8596593885d59c5e784d377077f9887de26cb6'
+[2019-03-18 20:04:55.845] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:04:57.688] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 20:04:57.900] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='38fdeca13a23343290a806e46e8596593885d59c5e784d377077f9887de26cb6'
+[2019-03-18 20:05:06.727] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:05:07.915] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 20:05:07.994] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='38fdeca13a23343290a806e46e8596593885d59c5e784d377077f9887de26cb6'
+[2019-03-18 20:17:18.873] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 20:17:20.451] [DEBUG] pgservice -  the getRowByPkOne sql select count(1) as c from orderer where requests='grpc://127.0.0.1:7050' 
+[2019-03-18 20:17:20.573] [DEBUG] pgservice -  the getRowsBySQlCase select max(blocknum) as blocknum from blocks  where genesis_block_hash='38fdeca13a23343290a806e46e8596593885d59c5e784d377077f9887de26cb6'
