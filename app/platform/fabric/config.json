@@ -8,12 +8,12 @@
                 "requests": "grpc://127.0.0.1:7051",
                 "events": "grpc://127.0.0.1:7053",
                 "server-hostname": "peer0.org1.example.com",
-                "tls_cacerts": "../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt"
+                "tls_cacerts": "/home/rapidqube/parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt"
                 
             },
             "admin": {
-                "key": "../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore",
-                "cert": "../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts"
+                "key": "/home/rapidqube/parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore",
+                "cert": "/home/rapidqube/parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts"
             }
         }
     },
@@ -23,11 +23,11 @@
                 "mspid": "OrdererMSP",
                 "server-hostname":"orderer.example.com",
                 "requests":"grpc://127.0.0.1:7050",
-                "tls_cacerts":"../parametericInsurance_backend/basic-network/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt"
+                "tls_cacerts":"/home/rapidqube/parametericInsurance_backend/basic-network/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt"
                 }
                 ],
     
-     "configtxgenToolPath": "../parametericInsurance_backend/bin",
+     "configtxgenToolPath": "/home/rapidqube/parametericInsurance_backend/bin",
      "SYNC_START_DATE_FORMAT":"YYYY/MM/DD",
      "syncStartDate":"2018/07/10",
     
