@@ -554,3 +554,10 @@
 [2019-03-18 20:17:20.022] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
 [2019-03-18 20:17:20.429] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
 [2019-03-18 20:17:20.429] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 21:28:22.477] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 21:28:55.158] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 21:28:55.178] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-18 21:28:55.611] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 21:28:55.611] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-18 21:28:55.676] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-18 21:28:55.677] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
